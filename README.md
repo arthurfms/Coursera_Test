@@ -1,2 +1,2 @@
-# Coursera_Test
-Coursera test repository
+# São Carlos Decorações
+São Carlos Decorações repository
